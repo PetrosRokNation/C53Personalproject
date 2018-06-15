@@ -1,3 +1,3 @@
 # C53Personalproject
-Personal Project Startup
-I will begin to build a basic stock following app
+This app will be the 1st phase in my stock investment following 
+app
