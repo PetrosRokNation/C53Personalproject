@@ -1,8 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
+import store from './store';
 import './index.css';
-import App from './App';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import Homepage from './Homepage';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+        <Homepage />
+    , document.getElementById('root'));
 registerServiceWorker();
