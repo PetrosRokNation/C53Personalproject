@@ -1,1 +1,1 @@
-This app will be the 1st phase in my stock investment following app
+This app will webscrape some of my favorite stock websites and stocks etc.
